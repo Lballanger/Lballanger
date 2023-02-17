@@ -7,7 +7,7 @@
 
 - 🔭 Je développe actuellement une application web e-commerce dans le domaine de la création textile.
 
-- 🌱 Je suis entrain d'apprendre **React**.
+- 🌱 Je suis entrain d'apprendre **Typescript**.
 
 - 📫 Pour me contacter **ballanger.loic@gmail.com**
 
