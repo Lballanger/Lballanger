@@ -1,13 +1,9 @@
 
 <h1 align="center">Loïc Ballanger</h1>
-<h3 align="center">Développeur Fullstack - Javascript</h3>
+<h3 align="center">Développeur Fullstack</h3>
 
 
 <br/>
-
-- 🔭 Je développe actuellement un jeu Gomoku
-
-- 🌱 Je suis entrain d'apprendre **VueJS**.
 
 - 📫 Pour me contacter **ballanger.loic@gmail.com**
 
